@@ -1,0 +1,2 @@
+# hardware-security
+Course notes
